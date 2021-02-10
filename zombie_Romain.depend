@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1612858002 source:c:\users\render\desktop\game\zombie_romain\main.cpp
+	"zombie.h"
+
+1612801766 c:\users\render\desktop\game\zombie_romain\zombie.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612858057 source:c:\users\render\desktop\game\zombie_romain\src\zombie.cpp
+	"zombie.h"
+
+1612858085 c:\users\render\desktop\game\zombie_romain\include\zombie.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612957185 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\main.cpp
+	"zombie.h"
+	"Bomber.h"
+	"Rapace.h"
+	"Tank.h"
+	"Mage.h"
+	"Fusion.h"
+
+1612956356 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\zombie.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612956725 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\fusion.cpp
+	"Fusion.h"
+
+1612956377 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\fusion.h
+	<zombie.h>
+
+1612956715 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\mage.cpp
+	"Mage.h"
+
+1612956374 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\mage.h
+	<zombie.h>
+
+1612956672 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\rapace.cpp
+	"Rapace.h"
+
+1612956366 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\rapace.h
+	<zombie.h>
+
+1612956702 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\tank.cpp
+	"Tank.h"
+
+1612956689 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\tank.h
+	<zombie.h>
+
+1612956945 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\zombie.cpp
+	"zombie.h"
+
+1612956657 source:c:\users\render\desktop\coutellier romain\zombie_romain-main\src\bomber.cpp
+	"Bomber.h"
+
+1612956363 c:\users\render\desktop\coutellier romain\zombie_romain-main\include\bomber.h
+	<zombie.h>
+
